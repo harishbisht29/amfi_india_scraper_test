@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from zMF_House import MF_House
+from MF_House import MF_House
 
 class Fund:
     house = None
