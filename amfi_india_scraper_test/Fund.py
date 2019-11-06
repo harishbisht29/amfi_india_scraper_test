@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from MF_House import MF_House
+from amfi_india_scraper_test.MF_House import MF_House
 
 class Fund:
     house = None
